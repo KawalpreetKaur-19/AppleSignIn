@@ -7,5 +7,5 @@ Step 2: Add the below lines of code in Info.plist.
 		<string>Default</string>
 	</array>
  
- Step 3: Implement the code given.
+ Step 3: Implement the code given.    
  Note: It is mandatory that the account being used for apple sign in must have enabled two way authentication.
